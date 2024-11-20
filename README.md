@@ -1,0 +1,1 @@
+# macos-menu-bar-starter-kit
