@@ -7,19 +7,19 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		875FCC902CEFA510007AC5D2 /* macMenuBarClassic.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = macMenuBarClassic.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		875FCCAB2CEFA893007AC5D2 /* macMenuBarWindow.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = macMenuBarWindow.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		875FCC922CEFA510007AC5D2 /* macMenuBarClassic */ = {
+		875FCCAD2CEFA893007AC5D2 /* macMenuBarWindow */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = macMenuBarClassic;
+			path = macMenuBarWindow;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		875FCC8D2CEFA510007AC5D2 /* Frameworks */ = {
+		875FCCA82CEFA893007AC5D2 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -29,18 +29,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		875FCC872CEFA510007AC5D2 = {
+		875FCCA22CEFA893007AC5D2 = {
 			isa = PBXGroup;
 			children = (
-				875FCC922CEFA510007AC5D2 /* macMenuBarClassic */,
-				875FCC912CEFA510007AC5D2 /* Products */,
+				875FCCAD2CEFA893007AC5D2 /* macMenuBarWindow */,
+				875FCCAC2CEFA893007AC5D2 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		875FCC912CEFA510007AC5D2 /* Products */ = {
+		875FCCAC2CEFA893007AC5D2 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				875FCC902CEFA510007AC5D2 /* macMenuBarClassic.app */,
+				875FCCAB2CEFA893007AC5D2 /* macMenuBarWindow.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -48,64 +48,64 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		875FCC8F2CEFA510007AC5D2 /* macMenuBarClassic */ = {
+		875FCCAA2CEFA893007AC5D2 /* macMenuBarWindow */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 875FCC9F2CEFA511007AC5D2 /* Build configuration list for PBXNativeTarget "macMenuBarClassic" */;
+			buildConfigurationList = 875FCCBA2CEFA894007AC5D2 /* Build configuration list for PBXNativeTarget "macMenuBarWindow" */;
 			buildPhases = (
-				875FCC8C2CEFA510007AC5D2 /* Sources */,
-				875FCC8D2CEFA510007AC5D2 /* Frameworks */,
-				875FCC8E2CEFA510007AC5D2 /* Resources */,
+				875FCCA72CEFA893007AC5D2 /* Sources */,
+				875FCCA82CEFA893007AC5D2 /* Frameworks */,
+				875FCCA92CEFA893007AC5D2 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				875FCC922CEFA510007AC5D2 /* macMenuBarClassic */,
+				875FCCAD2CEFA893007AC5D2 /* macMenuBarWindow */,
 			);
-			name = macMenuBarClassic;
+			name = macMenuBarWindow;
 			packageProductDependencies = (
 			);
-			productName = macMenuBarClassic;
-			productReference = 875FCC902CEFA510007AC5D2 /* macMenuBarClassic.app */;
+			productName = macMenuBarWindow;
+			productReference = 875FCCAB2CEFA893007AC5D2 /* macMenuBarWindow.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		875FCC882CEFA510007AC5D2 /* Project object */ = {
+		875FCCA32CEFA893007AC5D2 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1600;
 				LastUpgradeCheck = 1600;
 				TargetAttributes = {
-					875FCC8F2CEFA510007AC5D2 = {
+					875FCCAA2CEFA893007AC5D2 = {
 						CreatedOnToolsVersion = 16.0;
 					};
 				};
 			};
-			buildConfigurationList = 875FCC8B2CEFA510007AC5D2 /* Build configuration list for PBXProject "macMenuBarClassic" */;
+			buildConfigurationList = 875FCCA62CEFA893007AC5D2 /* Build configuration list for PBXProject "macMenuBarWindow" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = 875FCC872CEFA510007AC5D2;
+			mainGroup = 875FCCA22CEFA893007AC5D2;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 875FCC912CEFA510007AC5D2 /* Products */;
+			productRefGroup = 875FCCAC2CEFA893007AC5D2 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				875FCC8F2CEFA510007AC5D2 /* macMenuBarClassic */,
+				875FCCAA2CEFA893007AC5D2 /* macMenuBarWindow */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		875FCC8E2CEFA510007AC5D2 /* Resources */ = {
+		875FCCA92CEFA893007AC5D2 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -115,7 +115,7 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		875FCC8C2CEFA510007AC5D2 /* Sources */ = {
+		875FCCA72CEFA893007AC5D2 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -125,7 +125,7 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		875FCC9D2CEFA511007AC5D2 /* Debug */ = {
+		875FCCB82CEFA894007AC5D2 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -188,7 +188,7 @@
 			};
 			name = Debug;
 		};
-		875FCC9E2CEFA511007AC5D2 /* Release */ = {
+		875FCCB92CEFA894007AC5D2 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -243,56 +243,56 @@
 			};
 			name = Release;
 		};
-		875FCCA02CEFA511007AC5D2 /* Debug */ = {
+		875FCCBB2CEFA894007AC5D2 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_ENTITLEMENTS = macMenuBarClassic/macMenuBarClassic.entitlements;
+				CODE_SIGN_ENTITLEMENTS = macMenuBarWindow/macMenuBarWindow.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"macMenuBarClassic/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"macMenuBarWindow/Preview Content\"";
 				DEVELOPMENT_TEAM = E3W24N6WAL;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_KEY_LSUIElement = YES;
+				INFOPLIST_KEY_LSUIElement = NO;
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/../Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.onboto.macMenuBarClassic;
+				PRODUCT_BUNDLE_IDENTIFIER = com.onboto.macMenuBarWindow;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 			};
 			name = Debug;
 		};
-		875FCCA12CEFA511007AC5D2 /* Release */ = {
+		875FCCBC2CEFA894007AC5D2 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_ENTITLEMENTS = macMenuBarClassic/macMenuBarClassic.entitlements;
+				CODE_SIGN_ENTITLEMENTS = macMenuBarWindow/macMenuBarWindow.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"macMenuBarClassic/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"macMenuBarWindow/Preview Content\"";
 				DEVELOPMENT_TEAM = E3W24N6WAL;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_KEY_LSUIElement = YES;
+				INFOPLIST_KEY_LSUIElement = NO;
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/../Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.onboto.macMenuBarClassic;
+				PRODUCT_BUNDLE_IDENTIFIER = com.onboto.macMenuBarWindow;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -302,25 +302,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		875FCC8B2CEFA510007AC5D2 /* Build configuration list for PBXProject "macMenuBarClassic" */ = {
+		875FCCA62CEFA893007AC5D2 /* Build configuration list for PBXProject "macMenuBarWindow" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				875FCC9D2CEFA511007AC5D2 /* Debug */,
-				875FCC9E2CEFA511007AC5D2 /* Release */,
+				875FCCB82CEFA894007AC5D2 /* Debug */,
+				875FCCB92CEFA894007AC5D2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		875FCC9F2CEFA511007AC5D2 /* Build configuration list for PBXNativeTarget "macMenuBarClassic" */ = {
+		875FCCBA2CEFA894007AC5D2 /* Build configuration list for PBXNativeTarget "macMenuBarWindow" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				875FCCA02CEFA511007AC5D2 /* Debug */,
-				875FCCA12CEFA511007AC5D2 /* Release */,
+				875FCCBB2CEFA894007AC5D2 /* Debug */,
+				875FCCBC2CEFA894007AC5D2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 875FCC882CEFA510007AC5D2 /* Project object */;
+	rootObject = 875FCCA32CEFA893007AC5D2 /* Project object */;
 }
