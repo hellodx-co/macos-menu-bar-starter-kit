@@ -15,10 +15,6 @@ Welcome to the **macOS Menu Bar App Starter Kit**! This repository provides star
 ## 🛠 Getting Started
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/mac-menubar-starter-kit.git
-   cd mac-menubar-starter-ki
-   ```
 
 2. Open the Xcode project of your chosen template:
 
