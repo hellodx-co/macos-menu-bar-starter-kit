@@ -9,7 +9,6 @@ Welcome to the **macOS Menu Bar App Starter Kit**! This repository provides star
 - **Classic Drop-Down View**: A simple menu bar app with a drop-down view using `MenuBarExtra`.
 - **Form-Based Menu**: A template showcasing a form instead of the traditional drop-down.
 - **App Delegate Integration**: Manage lifecycle events for the menu bar app with an `AppDelegate`.
-- **API Call Example**: A template demonstrating how to make API calls from your menu bar app.
 - **Weekly Updates**: Stay tuned for new templates added every week!
 
 ## 🛠 Getting Started
@@ -27,8 +26,6 @@ Welcome to the **macOS Menu Bar App Starter Kit**! This repository provides star
 | ClassicMenuBarApp   | Basic drop-down view using `MenuBarExtra`.    |
 | FormMenuBarApp      | Menu bar app with a form-based interface.     |
 | AppDelegateTemplate | Lifecycle management using `AppDelegate`.     |
-| APICallTemplate (coming soon)     | Menu bar app showcasing API call integration. |
-
 
 ## 🤝 Contributing
 
