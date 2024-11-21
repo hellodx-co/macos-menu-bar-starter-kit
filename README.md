@@ -1,7 +1,6 @@
 # macOS Menu Bar App Starter Kit
 
 ![Starter Kit Banner](./assets/banner.png)  
-*(Replace the placeholder above with an image or banner representing your project.)*
 
 Welcome to the **macOS Menu Bar App Starter Kit**! This repository provides starter templates for building macOS menu bar applications using Swift. Whether you're a beginner or a seasoned macOS developer, these templates are designed to help you kickstart your own menu bar apps and explore different functionalities with ease.
 
@@ -13,7 +12,7 @@ Welcome to the **macOS Menu Bar App Starter Kit**! This repository provides star
 - **API Call Example**: A template demonstrating how to make API calls from your menu bar app.
 - **Weekly Updates**: Stay tuned for new templates added every week!
 
-:## 🛠 Getting Started
+## 🛠 Getting Started
 
 1. Clone the repository:
    ```bash
