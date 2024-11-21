@@ -43,7 +43,7 @@ We welcome contributions from the community! If you have a great idea for a menu
 
 1. Fork the repository.
 2. Create your menu bar app template.
-3. Add your template in a new folder with a clear name (e.g., `CustomTemplateName`).
+3. Add your template in a new folder with a clear name (e.g., `MenuBarFeatureName`).
 4. Update the table in this README with your template's name and description.
 5. Create a pull request with a detailed description of your template.
 
@@ -58,3 +58,4 @@ We welcome contributions from the community! If you have a great idea for a menu
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## 🎉 Thank You!
+We can’t wait to see what you build! If you find this helpful, consider starring ⭐ the repo and sharing it with other macOS developers.
