@@ -21,9 +21,6 @@ Welcome to the **macOS Menu Bar App Starter Kit**! This repository provides star
    ```
 
 2. Open the Xcode project of your chosen template:
-   ```
-   open ClassicMenuBar.xcodeproj
-   ```
 
 3. Run the project and explore the code to customize your menu bar app!
 
@@ -34,7 +31,7 @@ Welcome to the **macOS Menu Bar App Starter Kit**! This repository provides star
 | ClassicMenuBarApp   | Basic drop-down view using `MenuBarExtra`.    |
 | FormMenuBarApp      | Menu bar app with a form-based interface.     |
 | AppDelegateTemplate | Lifecycle management using `AppDelegate`.     |
-| APICallTemplate     | Menu bar app showcasing API call integration. |
+| APICallTemplate (coming soon)     | Menu bar app showcasing API call integration. |
 
 
 ## 🤝 Contributing
