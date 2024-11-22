@@ -1,4 +1,4 @@
-# 🎉 macOS Menu Bar App Starter Kit
+# 🚀 macOS Menu Bar App Starter Kit  
 
 ![Starter Kit Banner](./starterkit-banner.png)  
 
@@ -6,7 +6,7 @@ Welcome to the **macOS Menu Bar App Starter Kit**! 🎉 This is your go-to resou
 
 ---
 
-## Why Menu Bar Apps? 🤔  
+## 🤔 Why Menu Bar Apps?  
 
 Menu bar apps are the secret weapon of macOS. They’re lightweight, always accessible, and great for solving quick, everyday problems. Whether it’s checking the weather, renaming files, or monitoring your Wi-Fi, menu bar apps keep things simple and useful.  
 
@@ -14,24 +14,24 @@ But let’s be honest: getting started isn’t simple.
 
 ---
 
-## What’s Inside 🛠️  
+## 🛠️ What’s Inside  
 
 This repo has two templates and a collection of examples to inspire you:  
 
-### Templates (📂 [Templates](./Templates))  
+### 📂 [Templates](./Templates)  
 
 | Template           | Description                                           |
 |--------------------|-------------------------------------------------------|
 | **Classic Style**  | A dropdown menu bar app. Lightweight and simple.      |
 | **Window Style**   | A menu bar app with a detachable window for more features. |  
 
-### Examples (📂 [Examples](./Examples))  
+### 📂 [Examples](./Examples)  
 
 These are fully built apps to show off what’s possible with menu bar apps. Check them out for inspiration!  
 
 ---
 
-## Features ✨  
+## ✨ Features  
 
 Both templates are built to be beginner-friendly and include:  
 
@@ -44,7 +44,7 @@ Both templates are built to be beginner-friendly and include:
 
 ---
 
-## How to Use 🖱️  
+## 🖱️ How to Use  
 
 1. **Clone this repo:**  
 
@@ -65,7 +65,7 @@ Both templates are built to be beginner-friendly and include:
 
 ---
 
-## Template Highlights 🚀  
+## 🚀 Template Highlights  
 
 ### Classic Template  
 - A dropdown menu app using SwiftUI’s `MenuBarExtra`.  
@@ -77,7 +77,7 @@ Both templates are built to be beginner-friendly and include:
 
 ---
 
-## Want to Contribute? 🤝  
+## 🤝 Want to Contribute?  
 
 We’d love to see your menu bar creations! Here’s how:  
 1. 🍴 Fork this repo.  
@@ -87,7 +87,7 @@ We’d love to see your menu bar creations! Here’s how:
 
 ---
 
-## Build Something Awesome 🏗️  
+## 🏗️ Build Something Awesome  
 
 We built this starter kit because building menu bar apps doesn’t have to be hard. Now it’s your turn! ⭐ Star the repo, share it, and let us know what you make.  
 
