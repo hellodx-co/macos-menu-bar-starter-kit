@@ -1,6 +1,6 @@
-import SwiftUI
+import SwiftUI // We're using SwiftUI, Apple's modern toolkit for building apps on Mac and iOS. It's designed to make development faster, easier, and more fun.
 
-@main
+@main // This tells Swift that this is where the app starts running.
 struct macMenuBarClassicApp: App {
     var body: some Scene {
         // `MenuBarExtra` creates a menu bar app. Unlike a regular macOS app,
